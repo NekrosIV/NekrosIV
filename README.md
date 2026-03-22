@@ -1,54 +1,142 @@
-# Karandeep Singh
+<div align="center">
 
-Systems and backend developer trained at 42 School.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=240&section=header&text=Karandeep%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20%26%20Backend%20Developer%20·%20C%20%2F%20C%2B%2B%20·%20Infrastructure&descSize=18&descColor=d1d5db&descAlignY=58" width="100%" />
 
-I build software close to the system: network services, Unix process orchestration, and containerized infrastructure. I focus on reliable backend foundations, clear architecture, and production-minded implementation details.
+<br>
 
-## About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karandeep-singh)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singh.karandeep2106@gmail.com)
+[![42](https://img.shields.io/badge/42%20School-000000?style=for-the-badge&logo=42&logoColor=white)](https://42.fr)
 
-- Systems-oriented developer with hands-on C and C++ project experience
-- Strong focus on Unix internals: processes, pipes, redirections, concurrency, and low-level I/O
-- Practical backend and infra exposure through Docker, Kubernetes, PostgreSQL, and Supabase
+</div>
 
-## What I Do
+---
 
-- Build networked services and protocol-driven servers
-- Design command parsing and execution flows for shell-style tooling
-- Automate local infrastructure and deployment environments
-- Implement role-based backend data access with database security constraints
+<h2 align="center">About Me</h2>
 
-## Featured Projects
+<p align="center">
+Systems and backend developer trained at <b>42 School</b>.<br>
+I build software close to the system: <b>network services</b>, <b>Unix process orchestration</b>, and <b>containerized infrastructure</b>.<br>
+I care about <b>reliability</b>, <b>clear architecture</b>, and <b>production-minded engineering</b>.
+</p>
+
+<br>
+
+<h2 align="center">Core Focus</h2>
+
+<div align="center">
+
+| Systems | Backend | Infrastructure |
+|:--:|:--:|:--:|
+| Unix processes, pipes, redirections, low-level I/O | Network services, protocol-driven servers, secure data flows | Docker, Kubernetes, PostgreSQL, Supabase |
+
+</div>
+
+<br>
+
+<h2 align="center">Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### [ft_irc](https://github.com/NekrosIV/ft_irc)
-Custom IRC server in C++98 with non-blocking sockets and `epoll`, including registration flow, channel lifecycle management, and operator/moderation modes.
+Custom IRC server in **C++98**
+- non-blocking sockets + `epoll`
+- registration flow
+- channel lifecycle management
+- operator and moderation modes
+
+</td>
+<td width="50%" valign="top">
 
 ### [Minishell](https://github.com/NekrosIV/Minishell)
-Unix-like shell in C with parsing, variable expansion, redirections, heredocs, pipelines, builtins, and conditional execution (`&&`, `||`, grouped commands).
+Unix-like shell in **C**
+- parsing and variable expansion
+- redirections and heredocs
+- pipelines and builtins
+- conditional execution with `&&` and `||`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### [Inception-of-Thngs](https://github.com/NekrosIV/Inception-of-Thngs)
-Infrastructure automation project using Vagrant and K3s to provision cluster environments and deploy multiple applications behind Kubernetes Ingress routing.
+Infrastructure automation with **Vagrant + K3s**
+- cluster provisioning
+- multi-app deployment
+- Kubernetes Ingress routing
+
+</td>
+<td width="50%" valign="top">
 
 ### [inception](https://github.com/NekrosIV/inception)
-Docker Compose infrastructure for WordPress, MariaDB, and NGINX over HTTPS, with persistent volumes and automated bootstrap through scripts and WP-CLI.
+Docker-based infrastructure project
+- WordPress + MariaDB + NGINX over HTTPS
+- persistent volumes
+- automated bootstrap with scripts and WP-CLI
+
+</td>
+</tr>
+
+<tr>
+<td width="100%" valign="top" colspan="2">
 
 ### [school_app](https://github.com/NekrosIV/school_app)
-Role-based school platform using Supabase (Postgres, Auth, RLS, RPC, Edge Functions) with clear security boundaries between admin, teacher, and student domains.
+Role-based school platform using **Supabase**
+- PostgreSQL, Auth, RLS, RPC, Edge Functions
+- security boundaries between admin, teacher, and student domains
+- backend access control with production-minded constraints
 
-## Tech Stack
+</td>
+</tr>
+</table>
 
-**Languages:** C, C++, TypeScript, SQL, Bash  
-**Systems and Infra:** Linux, POSIX APIs, sockets, epoll, Docker, Kubernetes (K3s), Vagrant  
-**Backend and Data:** PostgreSQL, Supabase (Auth, RLS, RPC, Edge Functions)
+<br>
 
+<h2 align="center">Tech Stack</h2>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karandeep-singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singh.karandeep2106@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,bash,linux,docker,kubernetes,postgres,git,vim&theme=dark)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NekrosIV&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NekrosIV&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NekrosIV&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
+<br>
+
+<h2 align="center">Systems & Backend Toolbox</h2>
+
+<p align="center">
+<b>Languages:</b> C · C++ · TypeScript · SQL · Bash<br>
+<b>Systems:</b> Linux · POSIX APIs · sockets · epoll · processes · pipes · redirections<br>
+<b>Infra:</b> Docker · Kubernetes (K3s) · Vagrant<br>
+<b>Data:</b> PostgreSQL · Supabase
+</p>
+
+<br>
+
+<h2 align="center">GitHub Stats</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NekrosIV&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekrosIV&theme=tokyonight&hide_border=true&layout=compact" height="170"/>
+
+<br><br>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=NekrosIV&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<br>
+
+<h2 align="center">Contact</h2>
+
+<p align="center">
+<a href="mailto:singh.karandeep2106@gmail.com">singh.karandeep2106@gmail.com</a> ·
+<a href="https://linkedin.com/in/karandeep-singh">LinkedIn</a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" width="100%" />
