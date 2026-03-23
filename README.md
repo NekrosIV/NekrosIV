@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=240&section=header&text=Karandeep%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20%26%20Backend%20Developer%20·%20C%20%2F%20C%2B%2B%20·%20Infrastructure&descSize=18&descColor=d1d5db&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0B2E1D&height=230&section=header&text=Karandeep%20Singh&fontSize=48&fontColor=7FFF00&animation=fadeIn&fontAlignY=40&desc=Systems%20Developer%20-%20Backend%20-%20C%20%2F%20C%2B%2B&descSize=18&descColor=98FB98&descAlignY=60" width="100%" />
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karandeep-singh)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singh.karandeep2106@gmail.com)
+[![Email](https://img.shields.io/badge/kasingh@student.42.fr-c9885e?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:kasingh@student.42.fr)
 [![42](https://img.shields.io/badge/42%20School-000000?style=for-the-badge&logo=42&logoColor=white)](https://42.fr)
 
 </div>
@@ -100,20 +100,9 @@ Role-based school platform using **Supabase**
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,bash,linux,docker,kubernetes,postgres,git,vim&theme=dark)](https://skillicons.dev)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
-
-<br>
-
-<h2 align="center">Systems & Backend Toolbox</h2>
-
-<p align="center">
-<b>Languages:</b> C · C++ · TypeScript · SQL · Bash<br>
-<b>Systems:</b> Linux · POSIX APIs · sockets · epoll · processes · pipes · redirections<br>
-<b>Infra:</b> Docker · Kubernetes (K3s) · Vagrant<br>
-<b>Data:</b> PostgreSQL · Supabase
-</p>
 
 <br>
 
@@ -121,22 +110,12 @@ Role-based school platform using **Supabase**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NekrosIV&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekrosIV&theme=tokyonight&hide_border=true&layout=compact" height="170"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=NekrosIV&amp;theme=merko&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" alt=""><br><br>
+<img src="https://nirzak-streak-stats.vercel.app/?user=NekrosIV&amp;theme=merko&amp;hide_border=false" alt=""><br><br>
 <br><br>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=NekrosIV&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekrosIV&amp;theme=merko&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt="">
 
 </div>
 
 <br>
-
-<h2 align="center">Contact</h2>
-
-<p align="center">
-<a href="mailto:singh.karandeep2106@gmail.com">singh.karandeep2106@gmail.com</a> ·
-<a href="https://linkedin.com/in/karandeep-singh">LinkedIn</a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2E1D,100:0D1117&height=110&section=footer" width="100%" />
