@@ -4,7 +4,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/karandeep-singh-7aa70425a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karandeep-singh-7aa70425a/)
 [![Email](https://img.shields.io/badge/kasingh@student.42.fr-c9885e?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:kasingh@student.42.fr)
 [![42](https://img.shields.io/badge/42%20School-000000?style=for-the-badge&logo=42&logoColor=white)](https://42.fr)
 
