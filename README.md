@@ -36,6 +36,7 @@ I care about <b>reliability</b>, <b>clear architecture</b>, and <b>production-mi
 
 <h2 align="center">Featured Projects</h2>
 
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -93,6 +94,8 @@ Role-based school platform using **Supabase**
 </td>
 </tr>
 </table>
+
+</div>
 
 <br>
 
